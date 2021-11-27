@@ -17,7 +17,8 @@
         ResizeBorderThickness="8"
         CornerRadius="0"
         GlassFrameThickness="-1"
-        UseAeroCaptionButtons="True" />
+        UseAeroCaptionButtons="True"
+        NonClientFrameEdges="Right" />
     </WindowChrome.WindowChrome>
     <ui:SimpleStackPanel Margin="16,48,16,16" Spacing="12" Orientation="Vertical">
 
